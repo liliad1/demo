@@ -8,7 +8,7 @@ class GlobalSetting(CommAdminView):
     # 左上角及浏览器标题
     site_title = '学生信息管理系统'
     # 页脚版权信息
-    site_footer = 'Copyright © 2018 宝宝巴士'
+    site_footer = 'Copyright © 2019 Accenture'
     menu_style = 'accordion'
 
 
