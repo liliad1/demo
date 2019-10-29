@@ -148,4 +148,3 @@ MEDIA_ROOT = os.path.join(LOCATION, 'Media')
 ROOT_URL = '/'
 
 MEDIA_URL = '/media/'
-print(MEDIA_ROOT)
